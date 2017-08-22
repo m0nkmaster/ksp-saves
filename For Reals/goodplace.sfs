@@ -154,7 +154,7 @@ GAME
 	{
 		name = ContractSystem
 		scene = 7, 8, 5, 6
-		update = -1000
+		update = 1679687.6976564832
 		version = 1.3.0
 		WEIGHTS
 		{
@@ -3858,7 +3858,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 1.3.0
-		UT = 1679687.5976564831
+		UT = 1679689.1976564846
 		activeVessel = 0
 		mapViewFiltering = 7166
 		commNetUIModeTracking = Network
@@ -5428,13 +5428,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300121.14357279398
+				SMA = 300121.14357279404
 				ECC = 0.99999999999999989
-				INC = 0.34623082761300877
-				LPE = 89.999999999999986
-				LAN = 232.16221871385193
-				MNA = -3.1415926207170166
-				EPH = 1679685.6576564813
+				INC = 0.34623082761721946
+				LPE = 90
+				LAN = 232.19496204666126
+				MNA = 3.1415926207170166
+				EPH = 1679687.6176564831
 				REF = 1
 			}
 			PART
